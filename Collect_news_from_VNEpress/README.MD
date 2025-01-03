@@ -3,11 +3,16 @@
 This project is built to automate the process of getting news data from [VNExpress](https://vnexpress.net/) using [Selenium](https://www.selenium.dev/) and storing the data as a Json file.
 
 <p align="center">
-  <img src="https://github.com/SaikySu/Collect_and_classify_news/blob/main/Data_Image/example1.png?raw=true" width="800">
-  <i>Sample results collect topics </i>
-  <img src="https://github.com/SaikySu/Collect_and_classify_news/blob/main/Data_Image/example2.png?raw=true" width="800">
-  <i>Sample results collect detailed data</i>
+  <figure>
+    <img src="https://github.com/SaikySu/Collect_and_classify_news/blob/main/Data_Image/example1.png?raw=true" width="800">
+    <figcaption>Sample results collect topics</figcaption>
+  </figure>
+  <figure>
+    <img src="https://github.com/SaikySu/Collect_and_classify_news/blob/main/Data_Image/example2.png?raw=true" width="800">
+    <figcaption>Sample results collect detailed data</figcaption>
+  </figure>
 </p>
+
 
 ## How to use
 1. Download the source code in the repository.
