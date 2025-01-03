@@ -3,10 +3,8 @@
 This project is built to automate the process of getting news data from [VNExpress](https://vnexpress.net/) using [Selenium](https://www.selenium.dev/) and storing the data as a Json file.
 
 <p align="center">
-  <img src="https://github.com/SaikySu/Yolov8-Vehicles-and-Human-face-Detection/blob/main/Example/Face_before.gif" width="400">
-  <img src="https://github.com/SaikySu/Yolov8-Vehicles-and-Human-face-Detection/blob/main/Example/Face_after.gif" width="400"><br/>
-  <img src="https://github.com/SaikySu/Yolov8-Vehicles-and-Human-face-Detection/blob/main/Example/Vehicles_before.gif" width="400">
-  <img src="https://github.com/SaikySu/Yolov8-Vehicles-and-Human-face-Detection/blob/main/Example/Vehicles_after.gif" width="400"><br/>
+  <img src="https://github.com/SaikySu/Collect_and_classify_news/blob/main/Data_Image/example1.png?raw=true" width="400">
+  <img src="https://github.com/SaikySu/Collect_and_classify_news/blob/main/Data_Image/example2.png?raw=true" width="400"><br/>
   <i>Sample results</i>
 </p>
 
