@@ -4,7 +4,6 @@ This project is built to automate the process of getting news data from [VNExpre
 
 <p align="center">
   <img src="https://github.com/SaikySu/Collect_and_classify_news/blob/main/Data_Image/example1.png?raw=true" width="800"></br>
-  <div style="text-align: center;"><i>Sample results collect topics</i></div>
   <img src="https://github.com/SaikySu/Collect_and_classify_news/blob/main/Data_Image/example2.png?raw=true" width="800"></br>
   <div style="text-align: center;"><i>Sample results collect detailed data</i></div>
 </p>
